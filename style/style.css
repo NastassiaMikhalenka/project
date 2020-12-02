@@ -10,10 +10,10 @@ body {
   font-weight: normal;
   line-height: 24px;
 }
-
+/* coment*/
 header,
 section{
-  background-color: #eee;
+  background-color: #eeeee;
   padding-top: 30px;
 }
 
